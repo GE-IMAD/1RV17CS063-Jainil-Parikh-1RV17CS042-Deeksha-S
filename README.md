@@ -1,6 +1,6 @@
 # 1RV17CS042- Deeksha-Shravani-1RV17CS063-Jainil-Parikh
 
-Attendence system : Face Recognition 
+Attendance system : Face Recognition 
 
 Folders:
 

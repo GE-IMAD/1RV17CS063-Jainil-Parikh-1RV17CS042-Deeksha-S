@@ -1,4 +1,4 @@
-# 1RV17CS063-Jainil-Parikh-1RV17CS042-Deeksha-S
+# 1RV17CS063-Jainil-Parikh-1RV17CS042- Deeksha-Shravani
 
 Attendence system : Face Recognition 
 
